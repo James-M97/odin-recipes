@@ -11,3 +11,6 @@ a {
   background-color: wheat;
   margin-top: 50px;
 }
+ul {
+  list-style: none;
+}

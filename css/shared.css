@@ -17,8 +17,8 @@ h1 {
 }
 
 img {
-  width:auto;
-  height:250px;
+  width: auto;
+  width: 250px;
 }
 
 h3,
@@ -37,12 +37,16 @@ p {
   font-size: 22px;
 }
 
+ul li {
+  list-style-position: inside;
+}
+
 ul li,
 ol li {
   line-height: 1.5;
-  margin-left
+  margin-left: 30px;
 }
 
 ol li {
-  margin-left:30px;
+  margin-left: 30px;
 }
