@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+h1 {
+  font-weight: 700;
+  color: blue;
+  margin-top: 50px;
+  font-size: 75px;
+}
+
+img {
+  width:auto;
+  height:250px;
+}
+
+h3,
+h4 {
+  margin: 15px;
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.return {
+  margin-top: 12px;
+  display: block;
+  font-size: 22px;
+}
+
+ul li,
+ol li {
+  line-height: 1.5;
+  margin-left
+}
+
+ol li {
+  margin-left:30px;
+}

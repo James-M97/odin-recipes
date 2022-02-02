@@ -1,0 +1,13 @@
+ul li {
+  margin: 10px;
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.recipe-index {
+  background-color: wheat;
+  margin-top: 50px;
+}
